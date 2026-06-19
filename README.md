@@ -1,25 +1,27 @@
-# HTML5 Semantic Portfolio Website
+HTML5 Semantic Portfolio Website
+Overview
 
-## Objective
-Build a fully accessible multi-page portfolio website using semantic HTML5 and WCAG accessibility principles.
+A fully accessible multi-page personal portfolio website built using semantic HTML5 elements and WCAG accessibility guidelines.
 
-## Features
-- Semantic HTML5 tags
-- ARIA labels
-- SEO meta tags
-- Accessible contact form
-- Keyboard navigation
-- Responsive design
+Features
+Semantic HTML5 structure
+ARIA labels and roles
+SEO-friendly meta tags
+Accessible contact form
+Keyboard navigation support
+Responsive design
+Technologies Used
+HTML5
+CSS3
+Pages
+Home
+About
+Projects
+Contact
+Accessibility
 
-## Technologies Used
-- HTML5
-- CSS3
+This project follows WCAG accessibility principles and uses semantic HTML5 elements to improve usability, accessibility, and SEO.
 
-## Pages
-- Home
-- About
-- Projects
-- Contact
+Author
 
-## Accessibility
-The website follows WCAG guidelines and uses semantic elements to improve accessibility and SEO.
+Pranaya Patil
