@@ -25,3 +25,13 @@ This project follows WCAG accessibility principles and uses semantic HTML5 eleme
 Author
 
 Pranaya Patil
+
+## Advanced CSS3 Features
+
+- CSS Grid Layout
+- Flexbox Navigation
+- Responsive Media Queries
+- CSS Variables
+- Dark/Light Theme Toggle
+- Mobile-First Design
+- Responsive Layout for Mobile, Tablet and Desktop
