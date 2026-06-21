@@ -1,3 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projects</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Projects</h1>
+<button onclick="toggleTheme()">Toggle Theme</button>
+</header>
+
+<nav aria-label="Main Navigation">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<main class="grid-container">
+
+<section>
+
+<h2>My Work</h2>
+
+<article>
+<h3>Password Security Audit</h3>
 <p>Performed password analysis using Kali Linux tools.</p>
 </article>
 
@@ -13,6 +46,12 @@
 <footer>
 <p>&copy; 2026 Pranaya Patil</p>
 </footer>
+
+<script>
+function toggleTheme(){
+document.body.classList.toggle("dark-mode");
+}
+</script>
 
 </body>
 </html>

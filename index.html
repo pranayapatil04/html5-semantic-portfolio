@@ -22,7 +22,9 @@
 
 <header>
   <h1>Pranaya Patil</h1>
+  <button onclick="toggleTheme()">Toggle Theme</button>
 </header>
+
 
 <nav aria-label="Main Navigation">
   <ul>
@@ -33,7 +35,7 @@
   </ul>
 </nav>
 
-<main>
+<main class="grid-container">
 
 <section>
   <h2>Welcome</h2>
@@ -58,6 +60,12 @@
 <footer>
   <p>&copy; 2026 Pranaya Patil</p>
 </footer>
+
+<script>
+function toggleTheme(){
+document.body.classList.toggle("dark-mode");
+}
+</script>
 
 </body>
 </html>
